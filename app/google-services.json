@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428414253584",
+    "project_id": "project-nbyula",
+    "storage_bucket": "project-nbyula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428414253584:android:3af27bf5e7dade5fb56895",
+        "android_client_info": {
+          "package_name": "com.project.nbyula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428414253584-st6i8471dh3ai4og1fpppberfjbprt4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiccvyamymwxvARDbEVi83cuiqfazw4kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428414253584-st6i8471dh3ai4og1fpppberfjbprt4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
